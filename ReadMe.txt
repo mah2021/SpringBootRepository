@@ -15,3 +15,8 @@ at first when you type http://swagger-ui.html show a page that need username and
 
 to encrypt password and save in database , use https://bcrypt-generator.com 
 then you must decrypt to login to swagger .
+
+There are 3 roles in this project and we saved three username and password for these roles :
+EMPLOYEE ROLES : user@gmail.com for username and user for password.
+ADMIN ROLES : admin@gmail.com for sername and admin for password.
+ACCOUNTANT ROLE :zeitongraph@gmail.com for username and 13591363ma4 for password.
